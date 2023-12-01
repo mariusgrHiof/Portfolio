@@ -4,7 +4,7 @@ From your command line, first clone Portfolio:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/mariusgrHiof/Portfolio
+$ git clone https://github.com/mariusgrHiof/Portfolio.git
 
 # Move into the repository
 $ cd Portfolio
