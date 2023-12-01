@@ -24,3 +24,6 @@ $ npm start
 Todos:
 - Host the portfolio itself.
 - Host the Movies project.
+
+## Demo
+![Portfolio Demo](demo/demo.gif)
