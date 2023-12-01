@@ -9,8 +9,6 @@ $ git clone https://github.com/mariusgrHiof/Portfolio.git
 # Move into the repository
 $ cd Portfolio
 
-
-```bash
 # 2022 Update - Fix Dependencies
 $ npm audit fix
 $ npm i @parcel/transformer-sass
@@ -20,7 +18,7 @@ $ npm install
 
 # Start the development server
 $ npm start
-
+```
 Todos:
 - Host the portfolio itself.
 - Host the Movies project.
